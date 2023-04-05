@@ -1,0 +1,13 @@
+C:\FavMovieCodes\FavMoviesC\bin\Debug\FavMoviesC.exe.config
+C:\FavMovieCodes\FavMoviesC\bin\Debug\FavMoviesC.exe
+C:\FavMovieCodes\FavMoviesC\bin\Debug\FavMoviesC.pdb
+C:\FavMovieCodes\FavMoviesC\bin\Debug\Dapper.dll
+C:\FavMovieCodes\FavMoviesC\bin\Debug\Dapper.xml
+C:\FavMovieCodes\FavMoviesC\obj\Debug\FavMoviesC.csproj.AssemblyReference.cache
+C:\FavMovieCodes\FavMoviesC\obj\Debug\FavMoviesC.csproj.SuggestedBindingRedirects.cache
+C:\FavMovieCodes\FavMoviesC\obj\Debug\FavMoviesC.csproj.CoreCompileInputs.cache
+C:\FavMovieCodes\FavMoviesC\obj\Debug\FavMoviesC.csproj.CopyComplete
+C:\FavMovieCodes\FavMoviesC\obj\Debug\FavMoviesC.exe
+C:\FavMovieCodes\FavMoviesC\obj\Debug\FavMoviesC.pdb
+C:\FavMovieCodes\FavMoviesC\bin\Debug\Bogus.dll
+C:\FavMovieCodes\FavMoviesC\bin\Debug\Bogus.xml
